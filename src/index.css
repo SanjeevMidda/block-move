@@ -12,7 +12,7 @@
 }
 
 .gridContainer {
-  width: 70dvw;
+  width: 80dvw;
   height: 70dvh;
   /* border: 1px solid black; */
   display: grid;
